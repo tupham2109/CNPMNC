@@ -1,0 +1,44 @@
+* Phạm vi dự án:
+- Mục tiêu của dự án:
+• Tạo ra một website chuyên bán điện thoại với các tính năng cần thiết để thu hút khách hàng và giúp họ dễ dàng tìm kiếm và mua sản phẩm.
+• Tạo ra một trang web dễ sử dụng và thân thiện với người dùng.
+• Tăng doanh số bán hàng của cửa hàng bán điện thoại.
+
+
+
+- Tính năng của hệ thống:
+• Cho phép khách hàng tìm kiếm sản phẩm theo từ khóa, danh mục sản phẩm, hãng, giá cả, tính năng, màn hình, camera, dung lượng pin và các tiêu chí khác.
+• Cho phép khách hàng xem thông tin chi tiết của sản phẩm, bao gồm thông tin kỹ thuật, giá cả, mô tả, đánh giá của khách hàng và hình ảnh của sản phẩm.
+• Cho phép khách hàng đặt hàng và thanh toán trực tuyến thông qua các phương thức thanh toán an toàn và đáng tin cậy.
+• Cho phép khách hàng quản lý tài khoản của họ, bao gồm thông tin cá nhân, địa chỉ giao hàng, lịch sử đặt hàng và các đơn hàng đang chờ xử lý.
+• Cho phép quản trị viên quản lý sản phẩm, quản lý đơn hàng, quản lý khách hàng, quản lý nội dung trang web và thống kê các hoạt động của trang web.
+• Cung cấp chức năng hỗ trợ khách hàng qua điện thoại, email hoặc trò chuyện trực tuyến.
+
+
+
+- Công nghệ thực hiên: 
+• ASP.NET MVC 
+• JavaScript 
+• HTML, CSS, Bootstrap 
+• SQL Server 
+
+- Yêu cầu hệ thống: 
+• Gần gũi và dễ dàng sử dụng đối với khách hàng
+• Dễ dàng quản lý hệ thống
+• Dễ dàng nâng cấp và bảo trì hệ thống. 
+
+- Yêu cầu từ phía người dùng: 
+• Hệ thống đăng nhập an toàn và bảo mật. 
+• Có tính hiệu quả cao. 
+• Dễ dàng theo dõi đơn hàng 
+• Chức năng tìm kiếm đa dạng dễ dàng. 
+• Có phần phản hồi đánh giá về sản phẩm.
+
+Đơn vị thực hiện: Nhóm 
+• Ước lượng thời gian hoàn thành : Khoảng 3 tháng
+• Ngày bắt đầu : 16/02/2023 
+• Ngày kết thúc: 16/05/2023
+• Tổng kinh phí cho dự án: 150.000.000 VNĐ (một trăm năm mươi triệu đồng).
+
+
+
